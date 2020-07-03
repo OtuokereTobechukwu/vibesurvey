@@ -1,6 +1,8 @@
-# Read ME
+# VibeSurvey
 
-Vibesurvey is a survey app for musicians.
+Vibesurvey is a survey app for musicians. Get the most out of feedbacks from survey respondents
+
+## Features
 
 ## Installation
 
